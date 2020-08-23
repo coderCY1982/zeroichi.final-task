@@ -522,7 +522,9 @@ small {
     width: 100%;
     margin: 0;
   }
-
+.course-top{
+  margin-left:0;
+  }
   .course-img img {
     max-width: calc(100% - 20px);
     padding: 10px;
